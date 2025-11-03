@@ -2,10 +2,10 @@
 
 A modern, beautifully designed directory featuring **600+ free and paid AI tools** — all neatly categorized with **tags, links, and advanced search filtering** to help you find the perfect AI tool for your needs.
 
-![AI Tools Directory Preview](https://tools.anubhavsingh.website/image/websiteimg.png)
+![AI Tools Directory Preview](https://aitools.anubhav.sbs/image/websiteimg.png)
 
 ### 🌐 Live Demo
-👉 [Visit Website](https://tools.anubhavsingh.website)
+👉 [Visit Website](https://aitools.anubhav.sbs/)
 
 ---
 
