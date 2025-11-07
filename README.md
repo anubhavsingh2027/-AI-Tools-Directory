@@ -2,10 +2,11 @@
 
 A modern, beautifully designed directory featuring **600+ free and paid AI tools** — all neatly categorized with **tags, links, and advanced search filtering** to help you find the perfect AI tool for your needs.
 
-![AI Tools Directory Preview](https://aitools.anubhav.sbs/image/websiteimg.png)
+![AI Tools Directory Preview](https://ai-tools-directory-seven-jade.vercel.app/image/websiteimg.png)
 
 ### 🌐 Live Demo
-👉 [Visit Website](https://aitools.anubhav.sbs/)
+
+👉 [Visit Website](https://ai-tools-directory-seven-jade.vercel.app/)
 
 ---
 
@@ -45,6 +46,7 @@ The goal of this project is to simplify discovery of AI tools by providing a **c
 
 Contributions are welcome!
 If you’d like to add new AI tools or improve the site:
+
 1. Fork the repo
 2. Add your changes
 3. Submit a pull request 🚀
